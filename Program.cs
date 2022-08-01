@@ -78,8 +78,6 @@ while(count <= number)
 }
 }
 
-Zadacha4();
-
 
 
 
